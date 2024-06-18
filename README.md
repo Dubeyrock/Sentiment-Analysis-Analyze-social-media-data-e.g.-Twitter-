@@ -84,3 +84,15 @@ Copy code
 - Ensure to include any relevant information about your sentiment analysis methods, dependencies, and usage examples to make it easier for others to understand and contribute to your project.
 
 This README.md template provides a structured approach to showcase your project, its purpose, and how users  can interact with it effectively. Adjust and expand it further based on your project's unique aspects and requirements.
+
+
+
+
+# Result 
+
+
+![image](https://github.com/Dubeyrock/Brainwave_Matrix_Intern-.-Task-2-/assets/96882359/815a5c54-655f-46fb-a2f7-1f235ab7d3fd)
+
+![image](https://github.com/Dubeyrock/Brainwave_Matrix_Intern-.-Task-2-/assets/96882359/254c9143-a2b2-4619-bfa6-6faac2c28caf)
+
+
