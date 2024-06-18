@@ -90,6 +90,10 @@ This README.md template provides a structured approach to showcase your project,
 
 # Result 
 
+![image](https://github.com/Dubeyrock/Brainwave_Matrix_Intern-.-Task-2-/assets/96882359/c798e7c6-33a6-4861-b005-738a9edb6d43)
+
+![image](https://github.com/Dubeyrock/Brainwave_Matrix_Intern-.-Task-2-/assets/96882359/174ffbe6-5dda-4691-af1d-e50673873fe3)
+
 
 ![image](https://github.com/Dubeyrock/Brainwave_Matrix_Intern-.-Task-2-/assets/96882359/815a5c54-655f-46fb-a2f7-1f235ab7d3fd)
 
